@@ -1,0 +1,13 @@
+.livre{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.article{
+    padding: 10px;
+    border: solid 2px black;
+}
+
+img {
+    width: 20%;
+}
